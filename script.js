@@ -1,8 +1,8 @@
-var first = "Karlie";
-var last = "Kloss";
+var a = 12;
+var b = 65;
+var c = 31;
+var d = 98;
+var add = a + b + c + d;
+var divide = add / 4;
 
-console.log(`${first}${last}`);
-console.log(`${last}${first}`);
-console.log(`${first} ${last}`);
-console.log(`${last} ${first} ${last} ${first}`);
-console.log(`I love ${first}`);
+console.log(divide);
