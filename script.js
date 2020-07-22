@@ -1,7 +1,8 @@
-var a = 12;
-var b = 65;
-var c = 31;
-var d = 98;
-var average = (a + b + c + d) / 4;
+var first = "Karlie";
+var last = "Kloss";
 
-console.log(average);
+console.log(first + last);
+console.log(last + first);
+console.log(first, last);
+console.log(last, first, last, first);
+console.log(`I love ${first}`);
